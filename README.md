@@ -1,8 +1,8 @@
 # Movie Rating Analysis - Big Data Analytics Project
 
 **Course:** CSBB 422 - Big Data Analytics  
-[cite_start]**Project ID:** 2 (Movie Rating Analysis) [cite: 2]  
-[cite_start]**Submission Date:** November 25, 2025 
+**Project:** 2 (Movie Rating Analysis)
+
 
 ## 👥 Group Members
 * **Aadrika Singh** - 221210001
@@ -13,7 +13,7 @@
 ---
 
 ## 📖 Project Description
-This project analyzes the MovieLens dataset to identify average ratings per movie and trends using a distributed big data architecture. [cite_start]The system is built on a **Hadoop Multi-Node Cluster** (1 Master, 2 Workers) and utilizes **Apache Spark** for processing and **Streamlit** for the frontend dashboard[cite: 2, 22].
+This project analyzes the MovieLens dataset to identify average ratings per movie and trends using a distributed big data architecture. [cite_start]The system is built on a **Hadoop Multi-Node Cluster** (1 Master, 2 Workers) and utilizes **Apache Spark** for processing and **Streamlit** for the frontend dashboard.
 
 ## 🛠 Tech Stack
 * **Hadoop (HDFS/YARN):** Distributed storage and resource management.
