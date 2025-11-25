@@ -21,7 +21,7 @@ This project analyzes the MovieLens dataset to identify average ratings per movi
 * **Python & Streamlit:** Data visualization and User Interface.
 * **Environment:** Ubuntu 24.04.3 LTS (VirtualBox).
 
-## [cite_start]⚙️ Cluster Setup [cite: 19, 21]
+## ⚙️ Cluster Setup
 * **Master Node:** NameNode, ResourceManager
 * **Worker Node 1:** DataNode, NodeManager
 * **Worker Node 2:** DataNode, NodeManager
