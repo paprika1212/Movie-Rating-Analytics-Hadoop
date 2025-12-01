@@ -1,3 +1,4 @@
-pyspark
+pyspark==3.5.0
 streamlit
 pandas
+altair
